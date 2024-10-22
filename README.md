@@ -1,5 +1,7 @@
 # X3bounty
 
+![X3 Tools Logo](banner.gif)
+
 X3bounty is a Bash script designed to automate the process of discovering subdomains and performing WHOIS lookups for a given target domain. It leverages various tools and APIs to gather and validate subdomain information, providing users with a comprehensive view of potential subdomains associated with their target.
 
 ## Features
